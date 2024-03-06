@@ -1,0 +1,39 @@
+body {
+    padding: 10px;
+    margin: 0;
+    background-color: gainsboro;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+* {
+    color: var(--black);
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin: 0;
+}
+
+button {
+    padding: 0;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+}

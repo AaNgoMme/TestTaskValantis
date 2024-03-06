@@ -1,0 +1,41 @@
+.card__item {
+    flex: 0 1 calc(33.33% - 10px);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: #acddff;
+    text-align: start;
+    font-size: 18px;
+}
+
+.card__item-text {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.card__item-text_height {
+    height: 45px;
+}
+
+.card__item-text_right {
+    text-align: right;
+}
+
+.text_grey {
+    color: #5e5e5e;
+    font-weight: normal;
+}
+
+@media (max-width: 900px) {
+    .card__item {
+        flex: 0 1 calc(50% - 10px);
+    }
+}
+
+@media (max-width: 768px) {
+    .card__item {
+        flex: 0 1 calc(100% - 10px);
+    }
+}
