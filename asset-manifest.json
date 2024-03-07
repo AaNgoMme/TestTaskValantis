@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TestTaskValantis/static/css/main.4713fb2d.css",
+    "main.js": "/TestTaskValantis/static/js/main.14631daa.js",
+    "static/js/453.a6a97343.chunk.js": "/TestTaskValantis/static/js/453.a6a97343.chunk.js",
+    "static/media/redux.cjs": "/TestTaskValantis/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/TestTaskValantis/index.html",
+    "main.4713fb2d.css.map": "/TestTaskValantis/static/css/main.4713fb2d.css.map",
+    "main.14631daa.js.map": "/TestTaskValantis/static/js/main.14631daa.js.map",
+    "453.a6a97343.chunk.js.map": "/TestTaskValantis/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4713fb2d.css",
+    "static/js/main.14631daa.js"
+  ]
+}
